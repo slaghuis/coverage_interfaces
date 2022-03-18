@@ -1,0 +1,10 @@
+# Request
+geometry_msgs/PoseArray path
+string behavior_tree
+---
+# Result
+int32[] missed_waypoints
+builtin_interfaces/Duration flight_time
+---
+# Feedback
+int32 current_waypoint

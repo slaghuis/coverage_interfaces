@@ -1,0 +1,11 @@
+# Request
+float32 height
+float32 projected_area_w
+float32 projected_area_h
+geometry_msgs/Polygon area
+---
+# Result
+geometry_msgs/PoseArray path
+builtin_interfaces/Duration planning_time
+---
+# Feedback

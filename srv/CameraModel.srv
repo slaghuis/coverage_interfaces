@@ -1,0 +1,5 @@
+float64 spatial_resolution
+---
+float32 max_height
+float32 projected_area_w
+float32 projected_area_h
